@@ -2,7 +2,26 @@
 
 
 body {
-    background-color: rgb(92, 141, 118);
+    background-color: rgb(131, 179, 169);
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 60px 60px 300px 300px;
+    grid-gap: 20px;
 }
 
 
+
+
+/* nav */
+
+
+
+
+/* form */
+
+/* form button */
