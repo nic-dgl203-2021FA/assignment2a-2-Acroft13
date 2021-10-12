@@ -71,6 +71,16 @@ nav {
     height: auto;
 }
 
+/* shift .nav-right to right */
+.nav-right {
+    grid-area: navright;
+    list-style-type: none;
+    text-decoration: none;
+    width: auto;
+    align-items: flex-end;
+}
+
+
 
 
     
