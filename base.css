@@ -90,6 +90,14 @@ a {
     padding: 0px 15px
 }
 
+/*style main article */
+.main-tile {
+    grid-area: maintile;
+    background: white;
+}
+
+
+
 
 
 
