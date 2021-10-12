@@ -44,6 +44,33 @@ nav {
     width: 100%;
 }
 
+.site-nav {
+    list-style-type: none;
+    grid-area: sitenav;
+    text-decoration: none;
+    display: inline-flex;
+    width: 600px;
+    margin-bottom: 10px;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    height: auto;
+}
+
+/* style site-nav */
+.site-nav {
+    list-style-type: none;
+    grid-area: sitenav;
+    text-decoration: none;
+    display: inline-flex;
+    width: 600px;
+    margin-bottom: 10px;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    height: auto;
+}
+
 
 
     
