@@ -90,7 +90,7 @@ a {
     padding: 0px 15px
 }
 
-/*style main article */
+/*style main article top and bottom left tile */
 .main-tile {
     grid-area: maintile;
     background: white;
@@ -141,11 +141,40 @@ button {
     border-color:rgb(180, 98, 93);
     padding: 2px 7px 2px 7px;
     margin-top: 100px;
-    margin-left: 12px;
-
-   
+    margin-left: 12px;  
 }
 
+/* form bottom right tile*/
+
+
+.sidebar-bottom.tile.centered {
+    grid-area: sidebarbottom;
+    display: grid;
+    background: white;
+}
+
+.sidebar-bottom.tile.centered {
+    text-align: center;
+     padding-top: 15px;
+}
+    
+.cost-currency {
+    font-size: 1.5em;
+}
+    
+.cost-dollars {
+    font-size: 4.5em;
+}
+    
+.cost-cents {
+    font-size: 1.5em;
+}
+    
+a.cta-button {
+    clear: inherit;
+    padding: 0;
+}
+    
 
 
         
