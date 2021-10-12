@@ -96,6 +96,17 @@ a {
     background: white;
 }
 
+/* main tile content */
+.main-tile h1  {
+    text-align: center;
+    padding: 20px;
+    font-size: 3.5rem;
+}
+
+.main-tile p {
+    text-align: center;
+}
+
 
 
 
