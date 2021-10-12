@@ -28,6 +28,12 @@ body {
     font-size: 100%;
 }
 
+/* Add grid-area name */
+.page-heading {
+    grid-area: pageheading;
+}
+
+
     
 
 
