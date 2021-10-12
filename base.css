@@ -107,6 +107,13 @@ a {
     text-align: center;
 }
 
+/* form */
+
+.sidebar-top.tile {
+    grid-area: sidebartop;
+    background: white;
+}
+        
 
 
 
