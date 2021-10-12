@@ -33,6 +33,18 @@ body {
     grid-area: pageheading;
 }
 
+/* nav */
+
+/* Add nav styles */
+nav {
+    grid-area: nav;
+    background-color: rgb(100, 73, 73);
+    display: inline-flex;
+    height: 48px;
+    width: 100%;
+}
+
+
 
     
 
