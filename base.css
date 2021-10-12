@@ -80,6 +80,17 @@ nav {
     align-items: flex-end;
 }
 
+/* Style links */
+a {
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    display: inline-block;
+    background: rgb(180, 98, 93);
+    padding: 0px 15px
+}
+
+
 
 
 
