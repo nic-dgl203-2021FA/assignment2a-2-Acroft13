@@ -109,10 +109,45 @@ a {
 
 /* form */
 
+/* top right-tile */
 .sidebar-top.tile {
     grid-area: sidebartop;
     background: white;
 }
+
+/* login form */
+.login-form {
+    background: white;
+grid-area: sidebartop;
+}
+
+.login-form h3 {
+    text-align: right;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+#username {
+    display: block;
+    width: 80%;
+}
+
+#password {
+    display: block;
+    width: 80%;
+}
+
+button {
+    border-color:rgb(180, 98, 93);
+    padding: 2px 7px 2px 7px;
+    margin-top: 100px;
+    margin-left: 12px;
+
+   
+}
+
+
+
         
 
 
